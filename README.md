@@ -1,3 +1,3 @@
-# My Awesome Book
+# 基于机器人的实践方法第二组
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+![](/assets/9CIWZ$VI7T4(4$K]4ZADIOB.png)
