@@ -1,3 +1,12 @@
-# First Chapter
+## 1.ppt展示
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+![](/assets/robot1.png) 
+![](/assets/}%FIK~WQ3UQ~5@JJLFJSMX8.png)
+![](/assets/robot3.png)
+![](/assets/robot4.png)
+![](/assets/robot5.png)
+![](/assets/robot6.png)
+![](/assets/robot7.png)
+![](/assets/robot8.png)
+![](/assets/robot9.png)
+![](/assets/robot10.png)
