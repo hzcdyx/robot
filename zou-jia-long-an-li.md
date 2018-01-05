@@ -16,12 +16,27 @@ BLOCKLY案例
 XML代码
 
 
+![](/assets/捕获1.PNG)
 
 
 
+![](/assets/捕获2.PNG)
 
 
 
+![](/assets/捕获3.PNG)
 
 
+![](/assets/捕获4.PNG)
 
+![](/assets/捕获5.PNG)
+
+
+![](/assets/捕获6.PNG)
+
+![](/assets/捕获7.PNG)
+
+![](/assets/捕获8.PNG)
+
+
+![](/assets/捕获9.PNG)
