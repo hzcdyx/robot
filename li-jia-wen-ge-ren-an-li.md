@@ -40,11 +40,11 @@ Blockly 案例
 
 ![](/assets/F{N$OR1W7%29%28PJN[T9JXQ{8O.png)
 
-![](/assets/8L%293FAQ7%28AL{75D1YTSP.png)
+![](/assets/8L%293FAQ7%28AL{75D1YTSP.png)![](/assets/7CO2J8QAGU1ZMY~O4~IBL1C.png)
 
 #### XML代码**：**
 
-&lt;xml xmlns="[http://www.w3.org/1999/xhtml"&gt](http://www.w3.org/1999/xhtml"&gt);
+&lt;xml xmlns="\[[http://www.w3.org/1999/xhtml"&gt\]\(http://www.w3.org/1999/xhtml"&gt](http://www.w3.org/1999/xhtml"&gt]%28http://www.w3.org/1999/xhtml"&gt)\);
 
 &lt;variables&gt;
 
