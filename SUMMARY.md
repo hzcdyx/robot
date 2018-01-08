@@ -10,4 +10,5 @@
 * [邹嘉龙 个人案例](zou-jia-long-an-li.md)
 * [邹嘉龙 课程报告](zou-jia-long-ke-cheng-bao-gao.md)
 * [李嘉文 个人案例](li-jia-wen-ge-ren-an-li.md)
+* [李嘉文 课程报告](li-jia-wen-ke-cheng-bao-gao.md)
 
