@@ -1,4 +1,4 @@
-Blockly 案例  
+Blockly 案例
 
 姓名：李嘉文
 
@@ -9,8 +9,6 @@ Blockly 案例
 所在年级班级：2017级1班
 
 ---
-
-$$x = y$$
 
 #### 案例说明：
 
@@ -24,15 +22,9 @@ $$x = y$$
 
 ###### _定义一个函数计算任意四边形的面积。设有一个四边形，其四条边边长分别为3，4，5，5，一对对角之和为145°，写程序计算它的面积。_
 
-
-
-
-
 #### 界面截图：
 
-#### ![](file:///C:\Users\lijia\AppData\Roaming\Tencent\Users\614043087\QQ\WinTemp\RichOle\ERK2BFD}A$%29YJH%0_6TB26G.png)![](/assets/ERK2BFD}A$%29YJH%0_6TB26G.png)
-
-
+#### ![](file:///C:\Users\lijia\AppData\Roaming\Tencent\Users\614043087\QQ\WinTemp\RichOle\ERK2BFD}A$%29YJH%0_6TB26G.png)![](/assets/ERK2BFD}A$%29YJH%0_6TB26G.png)![](/assets/CR}WYH5~GV%Q$KE~6LQQOS1.png)
 
 #### 运行结果**截图：**
 
@@ -48,15 +40,13 @@ $$x = y$$
 
 ![](/assets/F{N$OR1W7%29%28PJN[T9JXQ{8O.png)
 
-![](/assets/8L%293FAQ7%28AL{75%1AD1YTSP.png)
+![](/assets/8L%293FAQ7%28AL{75D1YTSP.png)
 
 #### XML代码**：**
 
+&lt;xml xmlns="[http://www.w3.org/1999/xhtml"&gt](http://www.w3.org/1999/xhtml"&gt);
 
-
-&lt;xml xmlns="http://www.w3.org/1999/xhtml"&gt;
-
-  &lt;variables&gt;
+&lt;variables&gt;
 
     &lt;variable type="" id="-7r,9nZ1PGu\(^}bn1^Pc"&gt;a&lt;/variable&gt;
 
@@ -76,9 +66,9 @@ $$x = y$$
 
     &lt;variable type="" id=";K,\_UBiYHsW7C-7gb7}g"&gt;S&lt;/variable&gt;
 
-  &lt;/variables&gt;
+&lt;/variables&gt;
 
-  &lt;block type="text\_print" id="\]z0iIrYo{DU4=6Y\`MI{0" x="162" y="-12"&gt;
+&lt;block type="text\_print" id="\]z0iIrYo{DU4=6Y\`MI{0" x="162" y="-12"&gt;
 
     &lt;value name="TEXT"&gt;
 
@@ -982,37 +972,7 @@ $$x = y$$
 
     &lt;/next&gt;
 
-  &lt;/block&gt;
+&lt;/block&gt;
 
 &lt;/xml&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
