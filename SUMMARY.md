@@ -16,4 +16,6 @@
 * [李宇凡 XML代码](li-yu-fan-xml-dai-ma.md)
 * [杨润法 课程报告](yang-run-fa-ke-cheng-bao-gao.md)
 * [杨润法 案例报告](yang-run-fa-an-li-bao-gao.md)
+* [刘雨薇个人课程报告](liu-yu-wei-ge-ren-ke-cheng-bao-gao.md)
+* [刘雨薇的个人案例集](liu-yu-wei-de-ge-ren-an-li-ji.md)
 
